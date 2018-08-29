@@ -5,8 +5,7 @@ Tags: images, galleries, 301, redirect, SEO, search engine optimization
 Requires at least: 4.1.2
 Tested up to: 4.9.8
 Stable tag: 0.1.2
-License: GPLv2 or later
-License URI: http://www.gnu.org/licenses/gpl-2.0.html
+License: GPL-2.0+
 
 Redirect attachment pages for all unattached images to the current site's home page.
 
