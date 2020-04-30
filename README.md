@@ -4,7 +4,7 @@ Redirect WordPress attachment pages for all unattached images to the current sit
 
 __Contributors:__ [Robert Neu](https://github.com/robneu), [Ozzy Rodriguez](https://github.com/ozzyrod)  
 __Requires:__ 4.1.2  
-__Tested up to:__ 5.4.0  
+__Tested up to:__ 5.4.1  
 __License:__ [GPL-2.0+](http://www.gnu.org/licenses/gpl-2.0.html)
 
 ## Description ##

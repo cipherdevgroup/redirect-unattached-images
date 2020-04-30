@@ -3,7 +3,7 @@ Contributors: fatmedia, ozzyr, cipherdevgroup
 Donate link: https://cipherdevelopment.com
 Tags: images, galleries, 301, redirect, SEO, search engine optimization
 Requires at least: 4.1.2
-Tested up to: 5.4.0
+Tested up to: 5.4.1
 Stable tag: 0.1.2
 License: GPL-2.0+
 
